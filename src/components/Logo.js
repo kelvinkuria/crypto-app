@@ -12,7 +12,7 @@ text-lg text-cyan flex items-center
      "
     >
       <img src={logoSvg} alt="CryptoBucks" />
-      <span>CryptoHunter</span>
+      <span>Kuria's CryptoHunter</span>
     </Link>
   );
 };
