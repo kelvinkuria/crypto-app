@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "autoprefixer": "^10.4.12",
     "postcss": "^8.4.18",
     "tailwind-scrollbar": "^2.1.0-preview.0",
